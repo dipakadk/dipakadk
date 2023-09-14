@@ -15,10 +15,13 @@ A passionate Machine Learning Engineer from Kathmandu, Nepal,<br> I specialize i
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dipakadk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dipakadk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=dipakadk&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=dipakadk&label=Profile%20Views&icon=5&pretty=false" />
+</a>
